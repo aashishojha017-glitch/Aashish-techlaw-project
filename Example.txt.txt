@@ -1,1 +1,2 @@
-Hi, This is Aashish Ojha. First year student of BSc CSIT at Techlaw college. Seeking to learn new things.
+Hi, This is Aashish Ojha. First year student of BSc CSIT at Techlaw college. 
+This is my first ever github project.
